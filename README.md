@@ -1,4 +1,5 @@
 # 📝 ToDo API
+## Uma API RESTful de tarefas com MongoDB, construída com Node.js + Express
 
 Uma API RESTful simples de gerenciamento de tarefas, construída com Node.js, Express e MongoDB (Mongoose).  
 Criada com foco em organização, clareza e estrutura escalável.
@@ -24,3 +25,6 @@ cd todo-api
 
 # Instale as dependências
 npm install
+
+# Rode o projeto
+npm run dev
